@@ -1,4 +1,4 @@
 #!/bin/bash
 DIRNAME=$(dirname "$0")
 
-node $DIRNAME/index.js
+node $DIRNAME/index.mjs
